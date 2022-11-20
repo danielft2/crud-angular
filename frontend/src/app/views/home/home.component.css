@@ -1,0 +1,14 @@
+.home {
+   height: 4rem;
+   display: flex;
+   align-items: center;
+   padding: 30px 30px;
+}
+
+.title {
+   font-size: 1.4rem;
+}
+
+.subtitle {
+   margin: 0;
+}

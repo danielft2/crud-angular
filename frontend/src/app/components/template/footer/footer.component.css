@@ -1,0 +1,15 @@
+.footer {
+   position: fixed;
+   bottom: 0;
+   right: 0;
+   left: 0;
+   display: flex;
+   justify-content: end;
+}
+
+.footer-message {
+   font-size: 14px;
+   display: flex;
+   align-items: center;
+   gap: 4px;
+}

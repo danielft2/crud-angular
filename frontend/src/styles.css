@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.msg-sucess-toast {
+   background-color: rgb(5, 189, 36);
+   color: #fff;
+}
+
+.msg-error-toast {
+   background-color: rgb(212, 12, 5);
+   color: #fff;
+}
